@@ -8,6 +8,7 @@ Matrix room: [`#stickerpicker:maunium.net`](https://matrix.to/#/#stickerpicker:m
 For setup and usage instructions, please visit the [wiki](https://github.com/maunium/stickerpicker/wiki):
 
 * [Creating packs](https://github.com/maunium/stickerpicker/wiki/Creating-packs)
+  * Pawprint note: our matrix server is https://matrix.pawprint.chat
 * [Enabling the widget](https://github.com/maunium/stickerpicker/wiki/Enabling-the-widget)
 * [Hosting on GitHub pages](https://github.com/maunium/stickerpicker/wiki/Hosting-on-GitHub-pages)
 

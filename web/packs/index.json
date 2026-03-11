@@ -1,6 +1,9 @@
 {
   "packs": [
-    "Kataze.json"
+    "Kataze.json",
+    "BarkleyRechnerNL.json",
+    "Geo_Jinho.json",
+    "GoldenPuppy1to3.json"
   ],
   "homeserver_url": "https://matrix.pawprint.chat"
 }
