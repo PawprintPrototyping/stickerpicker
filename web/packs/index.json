@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "Kataze.json"
+  ],
+  "homeserver_url": "https://matrix.pawprint.chat"
+}
